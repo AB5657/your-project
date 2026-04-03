@@ -6,6 +6,13 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.utils import ImageReader
 import os 
  
+
+
+
+
+
+
+
 # --- 設定項目 ---
 EXCEL_FILE = '社員一覧.xlsx'
 SHEET_NAME = '社員一覧'
