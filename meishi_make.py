@@ -4,7 +4,7 @@ from reportlab.lib.units import mm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.utils import ImageReader
-import os
+import os 
  
 # --- 設定項目 ---
 EXCEL_FILE = '社員一覧.xlsx'
